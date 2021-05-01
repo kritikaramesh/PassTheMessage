@@ -1,0 +1,46 @@
+body{
+  background-color: #ffdada;
+  color: #31326f;
+  font-size: 1rem;
+  font-weight: bold;
+  font-family: 'Slabo 27px';
+}
+/* Container */
+div{
+  background: #dbf6e9;
+  width: 30%;
+  height: 40%;
+  border-radius: 12px;
+  padding: 4%;
+  margin: 2% 29%;
+}
+/* Title */
+h1{
+  font-family: 'Lobster';
+  margin:0;
+  text-align: center;
+  margin-top: 10%;
+}
+h4{
+  margin: 0;
+}
+/* Textbox */
+input[type=text]{
+  border: 3px solid #31326f;
+  padding: 5px;
+  width: 55%;
+  border-radius: 12px;
+}
+/* Button */
+button{
+  background-color: #31326f;
+  color: #dbf6e9;
+  border-radius: 12px;
+  padding: 2%;
+  border: none;
+  margin: 3% 35%;
+}
+button:hover{
+  background-color: #9ddfd3;
+  color: #31326f;
+}
